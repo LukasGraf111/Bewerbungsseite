@@ -1,0 +1,355 @@
+@media only screen and (min-width: 1200px) {
+  .ueberschrift_git_projekte {
+    background-color: lightblue;
+    height: 40px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+    margin-bottom: 20px;
+    margin-left: 180px;
+    margin-right: 180px;
+  }
+
+  .vertical_text {
+    font-size: 19px;
+    color: black;
+  }
+
+  .git_information {
+    display: grid;
+    grid-template-rows: 1fr;
+    height: 140px;
+    row-gap: 0;
+  }
+
+  .container_rest {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 10px;
+  }
+
+  .git_profilepicture {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .git_picture {
+    height: 170px;
+    border-radius: 50%;
+    border: 2px solid rgb(32, 31, 31);
+    background-color: white;
+    
+  }
+
+  .name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+  }
+
+  .link_git {
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    color: black;
+  }
+
+  .ueberschrift_repositories {
+    background-color: lightblue;
+    font-size: 19px;
+    color: black;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    margin-top: 88px;
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+
+  .container_projects {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 30px;
+    margin-top: 20px;
+    height: 400px;
+    padding-left: 130px;
+    padding-right: 130px;
+  }
+
+  .git_project_1 {
+    height: 193px;
+  }
+
+  .lock_image {
+    height: 170px;
+  }
+
+  .git_project_2 {
+    border-radius: 30px;
+    height: 193px;
+  }
+
+  .hangman_image {
+    height: 170px;
+  }
+
+  .git_project_3 {
+    border-radius: 30px;
+    height: 193px;
+  }
+
+  .web_design_image {
+    height: 170px;
+  }
+
+  .image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightgrey;
+    border-radius: 30px;
+    height: 200px;
+  }
+
+  .title {
+    background-color: white;
+    color: black;
+    border-radius: 30px;
+    padding-left: 30px;
+    padding-top: 12px;
+    font-size: 15px;
+    height: 200px;
+    margin-top: 20px;
+  }
+
+  .list_pm {
+    padding-left: 20px;
+  }
+
+  .ueberschrift_zukunft_features,
+  .container_project_future {
+    display: none;
+  }
+
+  .listen {
+    padding-left: 20px;
+  }
+
+  .ueberschrift_weitere_projekte {
+    background-color: lightblue;
+    font-size: 19px;
+    color: black;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+
+  .container_weitere_projekte {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 20px;
+    column-gap: 30px;
+    padding-left: 220px;
+    padding-right: 220px;
+  }
+
+  .w_project_1 {
+    border-radius: 30px;
+    height: 193px;
+  }
+
+  .w_project_2 {
+    border-radius: 30px;
+    height: 193px;
+  }
+}
+
+@media only screen and (min-width: 1500px) {
+  .ueberschrift_git_projekte {
+    background-color: #dfcdbd;
+    height: 45px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 110px;
+    margin-bottom: 50px;
+    margin-left: 180px;
+    margin-right: 180px;
+  }
+
+  .vertical_text {
+    font-size: 21px;
+    color: black;
+  }
+
+  .git_information {
+    display: grid;
+    grid-template-rows: 1fr;
+    height: 140px;
+    row-gap: 0;
+  }
+
+  .container_rest {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 10px;
+  }
+
+  .git_profilepicture {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .git_picture {
+    height: 230px;
+    border-radius: 50%;
+    border: 2px solid rgb(32, 31, 31);
+    background-color: white;
+    
+  }
+
+  .name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+  }
+
+  .link_git {
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    color: black;
+  }
+
+  .ueberschrift_repositories {
+    background-color: #dfcdbd;
+    font-size: 21px;
+    color: black;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    margin-top: 160px;
+    margin-left: 350px;
+    margin-right: 350px;
+  }
+
+  .container_projects {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 30px;
+    margin-top: 20px;
+    height: 400px;
+    padding-left: 170px;
+    padding-right: 170px;
+  }
+
+  .git_project_1 {
+    height: 193px;
+  }
+
+  .lock_image {
+    height: 170px;
+  }
+
+  .git_project_2 {
+    border-radius: 30px;
+    height: 193px;
+  }
+
+  .hangman_image {
+    height: 170px;
+  }
+
+  .git_project_3 {
+    border-radius: 30px;
+    height: 193px;
+  }
+
+  .web_design_image {
+    height: 170px;
+  }
+
+  .image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #eceaf6;
+    border-radius: 30px;
+    height: 220px;
+  }
+
+  .title {
+    background-color: white;
+    color: black;
+    border-radius: 30px;
+    padding-left: 30px;
+    padding-top: 12px;
+    font-size: 20px;
+    height: 220px;
+    margin-top: 20px;
+  }
+
+  .list_pm {
+    padding-left: 20px;
+  }
+
+  .ueberschrift_zukunft_features,
+  .container_project_future {
+    display: none;
+  }
+
+  .listen {
+    padding-left: 20px;
+  }
+
+  .ueberschrift_weitere_projekte {
+    background-color: #dfcdbd;
+    font-size: 21px;
+    color: black;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    margin-top: 120px;
+    margin-left: 350px;
+    margin-right: 350px;
+  }
+
+  .container_weitere_projekte {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 20px;
+    column-gap: 30px;
+    padding-left: 280px;
+    padding-right: 280px;
+  }
+
+  .w_project_1 {
+    border-radius: 30px;
+    height: 193px;
+  }
+
+  .w_project_2 {
+    border-radius: 30px;
+    height: 193px;
+  }
+}

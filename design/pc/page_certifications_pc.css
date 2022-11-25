@@ -1,0 +1,93 @@
+@media only screen and (min-width: 1200px) {
+  .ueberschrift_zertifikate {
+    background-color: lightblue;
+    font-size: 19px;
+    color: black;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    margin-top: 310px;
+    margin-left: 180px;
+    margin-right: 180px;
+
+  }
+  
+  .container_zertifikate {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  .Zertifikat1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .Zertifikat_R {
+    width: 500px;
+    border-radius: 20px;
+  }
+  
+  .Zertifikat2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .Zertifikat_P {
+    width: 500px;
+    border-radius: 20px;
+  }
+}
+
+@media only screen and (min-width: 1500px) {
+  .ueberschrift_zertifikate {
+    background-color: #dfcdbd;
+    font-size: 21px;
+    color: black;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    margin-top: 350px;
+    margin-left: 180px;
+    margin-right: 180px;
+
+  }
+  
+  .container_zertifikate {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  .Zertifikat1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .Zertifikat_R {
+    width: 550px;
+    border-radius: 20px;
+  }
+  
+  .Zertifikat2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .Zertifikat_P {
+    width: 550px;
+    border-radius: 20px;
+  }
+}
