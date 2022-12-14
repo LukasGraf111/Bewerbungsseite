@@ -12,19 +12,19 @@
     height: 40px;
     padding-left: 10px;
     padding-right: 10px;
-    background: linear-gradient(0.45turn,rgb(58, 58, 120) 30%, rgb(132, 163, 174));
+    background: #dfcdbd;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
   }
 
   .header_anchor {
-    color: white;
+    color: #423250;
     text-decoration: none;
     scroll-padding-top: 50px;
   }
 
   .header_anchor:active {
-    color: rgba(173, 216, 230, 0.9)
+    color: white;
   }
 
   .button_home {

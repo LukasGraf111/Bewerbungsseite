@@ -1,6 +1,6 @@
 @media only screen and (min-width: 760px) {
   .ueberschrift_zertifikate {
-    background-color: lightblue;
+    background-color: #dfcdbd;
     font-size: 18px;
     color: black;
     height: 30px;
@@ -45,7 +45,7 @@
 
 @media only screen and (min-width: 1000px) {
   .ueberschrift_zertifikate {
-    background-color: lightblue;
+    background-color: #dfcdbd;
     font-size: 18px;
     color: black;
     height: 30px;

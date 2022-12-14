@@ -1,6 +1,6 @@
 @media only screen and (min-width: 760px) and (max-width:999px) {
   .ueberschrift_git_projekte {
-    background-color: lightblue;
+    background-color: #dfcdbd;
     height: 30px;
     border-radius: 15px;
     display: flex;
@@ -58,7 +58,7 @@
   }
 
   .ueberschrift_repositories {
-    background-color: lightblue;
+    background-color: #dfcdbd;
     font-size: 18px;
     color: black;
     height: 30px;
@@ -116,7 +116,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: lightgrey;
+    background-color: #eceaf6;
     border-radius: 30px;
   }
 
@@ -144,7 +144,7 @@
   }
 
   .ueberschrift_weitere_projekte {
-    background-color: lightblue;
+    background-color: #dfcdbd;
     font-size: 18px;
     color: black;
     height: 30px;
@@ -172,12 +172,20 @@
     height: 193px;
     margin-top: 20px;
   }
+
+  .nextcloud_image {
+    width: 160px;
+  }
+
+  .azure_image {
+    width: 160px;
+  }
 }
 
 
 @media only screen and (min-width: 1000px) {
   .ueberschrift_git_projekte {
-    background-color: lightblue;
+    background-color: #dfcdbd;
     height: 30px;
     border-radius: 15px;
     display: flex;
@@ -235,7 +243,7 @@
   }
 
   .ueberschrift_repositories {
-    background-color: lightblue;
+    background-color: #dfcdbd;
     font-size: 18px;
     color: black;
     height: 30px;
@@ -263,7 +271,7 @@
   }
 
   .lock_image {
-    height: 100px;
+    height: 170px;
   }
 
   .git_project_2 {
@@ -272,7 +280,7 @@
   }
 
   .hangman_image {
-    height: 100px;
+    height: 170px;
   }
 
   .git_project_3 {
@@ -281,14 +289,14 @@
   }
 
   .web_design_image {
-    height: 100px;
+    height: 170px;
   }
 
   .image {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: lightgrey;
+    background-color: #eceaf6;
     border-radius: 30px;
     height: 200px;
   }
@@ -318,7 +326,7 @@
   }
 
   .ueberschrift_weitere_projekte {
-    background-color: lightblue;
+    background-color: #dfcdbd;
     font-size: 18px;
     color: black;
     height: 30px;
@@ -348,5 +356,13 @@
   .w_project_2 {
     border-radius: 30px;
     height: 193px;
+  }
+
+  .nextcloud_image {
+    width: 160px;
+  }
+
+  .azure_image {
+    width: 160px;
   }
 }

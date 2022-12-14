@@ -4,7 +4,7 @@
   }
   
   .ueberschrift_home {
-    background-color: lightblue;
+    background-color: #dfcdbd;
     font-size: 18px;
     color: black;
     height: 30px;
@@ -26,7 +26,7 @@
     border-radius: 10px;
     display: flex;
     text-align: justify;
-    background-color: white;
+    background-color: #eceaf6;
     padding: 5px;
     margin-left: 30px;
   }
@@ -54,7 +54,7 @@
   }
   
   .ueberschrift_home {
-    background-color: lightblue;
+    background-color: #dfcdbd;
     font-size: 18px;
     color: black;
     height: 30px;
@@ -76,7 +76,7 @@
     border-radius: 10px;
     display: flex;
     text-align: justify;
-    background-color: white;
+    background-color: #eceaf6;
     padding: 5px;
     margin-left: 30px;
   }

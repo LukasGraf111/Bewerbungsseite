@@ -1,6 +1,6 @@
 @media only screen and (min-width: 1200px) {
   .ueberschrift_git_projekte {
-    background-color: lightblue;
+    background-color: #dfcdbd;
     height: 40px;
     border-radius: 15px;
     display: flex;
@@ -53,14 +53,13 @@
 
   .link_git {
     display: flex;
-    color: white;
     justify-content: center;
     align-items: center;
     color: black;
   }
 
   .ueberschrift_repositories {
-    background-color: lightblue;
+    background-color: #dfcdbd;
     font-size: 19px;
     color: black;
     height: 40px;
@@ -113,7 +112,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: lightgrey;
+    background-color: #eceaf6;
     border-radius: 30px;
     height: 200px;
   }
@@ -143,7 +142,7 @@
   }
 
   .ueberschrift_weitere_projekte {
-    background-color: lightblue;
+    background-color: #dfcdbd;
     font-size: 19px;
     color: black;
     height: 40px;
@@ -173,6 +172,14 @@
   .w_project_2 {
     border-radius: 30px;
     height: 193px;
+  }
+
+  .nextcloud_image {
+    width: 220px;
+  }
+
+  .azure_image {
+    width: 160px;
   }
 }
 
@@ -231,7 +238,6 @@
 
   .link_git {
     display: flex;
-    color: white;
     justify-content: center;
     align-items: center;
     color: black;
@@ -351,5 +357,13 @@
   .w_project_2 {
     border-radius: 30px;
     height: 193px;
+  }
+
+  .nextcloud_image {
+    width: 230px;
+  }
+
+  .azure_image {
+    width: 180px;
   }
 }
