@@ -31,7 +31,32 @@
     padding: 5px;
     margin-left: 30px;
   }
+
+  .text_about_me {
+    display: block;
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+  }
   
+
+  .text_about_me_ueberschrift {
+    font-size: 60px;
+    font-weight: bolder;
+    color: #423250;
+    margin-left: -30px;
+  }
+
+  .kontaktdaten {
+    display: inline-block;
+    margin-top: 50px;
+  }
+
+  .main_text {
+    display: inline-block;
+    margin-top: 35px;
+  }
+
   .story {
     color: black;
   }
@@ -74,13 +99,24 @@
     column-gap: 10px;
   }
   
-  .text {
-    border-radius: 10px;
-    display: flex;
-    text-align: justify;
-    background-color: #eceaf6;
-    padding: 5px;
-    margin-left: 70px;
+  .text_about_me {
+    display: block;
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+  }
+  
+
+  .text_about_me_ueberschrift {
+    font-size: 60px;
+    font-weight: bolder;
+    color: #423250;
+    margin-left: -30px;
+  }
+
+  .kontaktdaten {
+    display: inline-block;
+    margin-top: 80px;
   }
   
   .story {
